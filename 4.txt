@@ -1,0 +1,7 @@
+Ligo o interruptor 1 e espero um tempo, depois apago ele
+Ligo o interruptor 2 e vou em na sala 1
+Se a lampada estiver quente e apagada, ela é o interruptor 1
+Se a lampada estiver apagada e fria é o interruptor 3
+Se a lampada estiver acesa é o interruptor 2
+Para a proxima sala seria mais facil de resolver porque só teria duas possibilidades
+E a ultima seria o que sobrou
